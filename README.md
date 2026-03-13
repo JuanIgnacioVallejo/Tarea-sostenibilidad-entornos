@@ -1,17 +1,22 @@
-# Problemas del consumo tecnológico actual
-### 1. Obsolescencia programada
 
-Las empresas fabrican dispositivos con vida útil limitada para obligar a comprar nuevos productos, lo que genera más gasto y más residuos electrónicos.
+### Solución 1: Tecnología sostenible
 
-### 2. Contaminación ambiental
+Para reducir el impacto del consumo tecnológico se pueden aplicar las siguientes medidas:
 
-La producción de teléfonos, ordenadores y baterías requiere minerales y energía, lo que provoca contaminación y explotación de recursos naturales.
+- Diseñar dispositivos más duraderos.
+- Facilitar la reparación en lugar del reemplazo.
+- Usar materiales reciclables.
+- Crear leyes contra la obsolescencia programada.
+- Promover el reciclaje de aparatos electrónicos.
 
-### 3. Dependencia y adicción digital
+Resultado esperado:
+Menos residuos, menor contaminación y menor gasto económico.
 
-El uso excesivo de redes sociales, videojuegos y móviles puede afectar la salud mental, el sueño y la concentración.
+### Indicadores ambientales relacionados:
 
-### 4. Brecha digital
+- Reducción de residuos electrónicos
+- Menor consumo de materias primas
+- Disminución de contaminación
+- Uso responsable de recursos naturales
 
-No todas las personas tienen acceso a la tecnología, lo que genera desigualdad en educación, trabajo y oportunidades.
-
+La solución 1 mejora estos indicadores al promover tecnología más duradera y reciclable.
