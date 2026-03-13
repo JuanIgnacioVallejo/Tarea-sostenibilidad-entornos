@@ -1,17 +1,20 @@
-# Problemas del consumo tecnológico actual
-### 1. Obsolescencia programada
+### Solución 2: Educación digital y uso responsable
 
-Las empresas fabrican dispositivos con vida útil limitada para obligar a comprar nuevos productos, lo que genera más gasto y más residuos electrónicos.
+Otra solución importante es enseñar a las personas a usar la tecnología de forma equilibrada y consciente.
 
-### 2. Contaminación ambiental
+Medidas posibles:
 
-La producción de teléfonos, ordenadores y baterías requiere minerales y energía, lo que provoca contaminación y explotación de recursos naturales.
+- Incluir educación digital en las escuelas.
+- Enseñar a controlar el tiempo de pantalla.
+- Informar sobre los riesgos de la adicción tecnológica.
+- Fomentar actividades sin dispositivos electrónicos.
+- Promover el pensamiento crítico sobre redes sociales y consumo.
 
-### 3. Dependencia y adicción digital
+También es recomendable que las familias y los profesores ayuden a establecer límites en el uso de móviles y ordenadores.
 
-El uso excesivo de redes sociales, videojuegos y móviles puede afectar la salud mental, el sueño y la concentración.
+Resultado esperado:
 
-### 4. Brecha digital
-
-No todas las personas tienen acceso a la tecnología, lo que genera desigualdad en educación, trabajo y oportunidades.
-
+- Menor dependencia digital.
+- Mejor salud mental.
+- Mayor concentración.
+- Uso más responsable de la tecnología.
