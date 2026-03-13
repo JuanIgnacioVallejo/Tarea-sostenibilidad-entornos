@@ -232,6 +232,8 @@ La solución basada en la tecnología sostenible mejora los tres tipos de indica
 - Sociales → mayor igualdad y bienestar
 
 Por lo tanto, fomentar una tecnología más duradera y reciclable ayuda a lograr un desarrollo sostenible.
-![Imagen sostenibilidad](https://www.google.com/imgres?q=imagen%20sostenibilidad%20tecnologia&imgurl=https%3A%2F%2Fwww.digitalbizmagazine.com%2Fwp-content%2Fuploads%2F2023%2F12%2Fdb57_Tecnologia-y-sostenibilidad.png&imgrefurl=https%3A%2F%2Fwww.digitalbizmagazine.com%2Ftecnologia-y-sostenibilidad%2F&docid=Et6raxlmb9_ODM&tbnid=6FxejkhKUYSuHM&vet=12ahUKEwiqmaTUvZ2TAxWUfKQEHdxENjYQnPAOegQIIBAB..i&w=1068&h=600&hcb=2&ved=2ahUKEwiqmaTUvZ2TAxWUfKQEHdxENjYQnPAOegQIIBAB)
+## Imagen sobre sostenibilidad tecnológica
+
+![Imagen sostenibilidad](https://www.digitalbizmagazine.com/wp-content/uploads/2023/12/db57_Tecnologia-y-sostenibilidad.png)
 
 [Web que explora más a fondo la sostenibilidad](https://www.ibm.com/es-es/think/topics/sustainable-technology)
